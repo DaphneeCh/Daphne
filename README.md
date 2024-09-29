@@ -1,1 +1,2 @@
 # Daphne
+🌱 Newbie in IT 
